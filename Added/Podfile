@@ -1,0 +1,8 @@
+platform :ios, '8.0'
+use_frameworks!
+
+pod "LiquidFloatingActionButton"
+pod "Font-Awesome-Swift"
+pod "KCFloatingActionButton"
+pod "FontAwesome.swift"
+pod "QRCode"

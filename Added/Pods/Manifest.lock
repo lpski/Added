@@ -1,0 +1,22 @@
+PODS:
+  - Font-Awesome-Swift (1.4.8)
+  - FontAwesome.swift (0.8.0)
+  - KCFloatingActionButton (1.3.7)
+  - LiquidFloatingActionButton (1.2.0)
+  - QRCode (0.5)
+
+DEPENDENCIES:
+  - Font-Awesome-Swift
+  - FontAwesome.swift
+  - KCFloatingActionButton
+  - LiquidFloatingActionButton
+  - QRCode
+
+SPEC CHECKSUMS:
+  Font-Awesome-Swift: 354c9440b0e4d692e31171c84091f3510e8f9468
+  FontAwesome.swift: f8c6cc5c42cbe93bdc04371363bc7b371fb3d3a1
+  KCFloatingActionButton: 3276cac9e2332a73eab90ace2ed3474f4f59e97c
+  LiquidFloatingActionButton: 9c28961915754e08cf596ea6bdd60f9cd949f172
+  QRCode: a249ed747aeb0f4bf5f9c58b5b001b6b3bc80073
+
+COCOAPODS: 0.39.0
