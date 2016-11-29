@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "29d30d2d282dabf135f2bc2b3dc20fc2"
+build_time: [532035295, 84950000]
+inputs:
+  "/Users/lukeporupski/Projects/Added_2/Pods/BubbleTransition/Source/BubbleTransition.swift": [531980038, 0]

@@ -1,0 +1,539 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ScrollViewController"
+provides-nominal:
+- "C7Added_220ScrollViewController"
+provides-member:
+- ["C7Added_220ScrollViewController", ""]
+provides-dynamic-lookup:
+- "scrollView"
+- "viewDidLoad"
+- "cameraButton"
+- "transition"
+- "setupViews"
+- "didReceiveMemoryWarning"
+depends-top-level:
+- !private "*"
+- "UIButton"
+- "CastingPrecedence"
+- "UIScrollView"
+- "AssignmentPrecedence"
+- !private "CGRect"
+- "ScrollViewController"
+- "UIViewController"
+- "BubbleTransition"
+- !private "StringLiteralType"
+- !private "HomeViewController"
+depends-member:
+- ["Ps9AnyObject", "BubbleTransition"]
+- !private ["Ps9AnyObject", "CGRect"]
+- !private ["Ps9AnyObject", "addChildViewController"]
+- !private ["Ps9AnyObject", "addSubview"]
+- ["Ps9AnyObject", "cameraButton"]
+- !private ["Ps9AnyObject", "contentSize"]
+- !private ["Ps9AnyObject", "didMove"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- !private ["Ps9AnyObject", "frame"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "instantiateViewController"]
+- ["Ps9AnyObject", "scrollView"]
+- ["Ps9AnyObject", "setupViews"]
+- !private ["Ps9AnyObject", "storyboard"]
+- ["Ps9AnyObject", "transition"]
+- !private ["Ps9AnyObject", "view"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- ["C16BubbleTransition16BubbleTransition", "deinit"]
+- ["C16BubbleTransition16BubbleTransition", "init"]
+- !private ["PSo15CALayerDelegate", "addSubview"]
+- !private ["PSo15CALayerDelegate", "contentSize"]
+- !private ["PSo15CALayerDelegate", "frame"]
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- ["VSC6CGRect", "deinit"]
+- !private ["VSC6CGRect", "height"]
+- !private ["VSC6CGRect", "init"]
+- !private ["VSC6CGRect", "width"]
+- !private ["VSC6CGSize", "width"]
+- ["Ps7CVarArg", "BubbleTransition"]
+- !private ["Ps7CVarArg", "CGRect"]
+- !private ["Ps7CVarArg", "addChildViewController"]
+- !private ["Ps7CVarArg", "addSubview"]
+- ["Ps7CVarArg", "cameraButton"]
+- !private ["Ps7CVarArg", "contentSize"]
+- !private ["Ps7CVarArg", "didMove"]
+- ["Ps7CVarArg", "didReceiveMemoryWarning"]
+- !private ["Ps7CVarArg", "frame"]
+- ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "instantiateViewController"]
+- ["Ps7CVarArg", "scrollView"]
+- ["Ps7CVarArg", "setupViews"]
+- !private ["Ps7CVarArg", "storyboard"]
+- ["Ps7CVarArg", "transition"]
+- !private ["Ps7CVarArg", "view"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "init"]
+- ["Ps28CustomDebugStringConvertible", "BubbleTransition"]
+- !private ["Ps28CustomDebugStringConvertible", "CGRect"]
+- !private ["Ps28CustomDebugStringConvertible", "addChildViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "addSubview"]
+- ["Ps28CustomDebugStringConvertible", "cameraButton"]
+- !private ["Ps28CustomDebugStringConvertible", "contentSize"]
+- !private ["Ps28CustomDebugStringConvertible", "didMove"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps28CustomDebugStringConvertible", "frame"]
+- !private ["Ps28CustomDebugStringConvertible", "height"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "instantiateViewController"]
+- ["Ps28CustomDebugStringConvertible", "scrollView"]
+- ["Ps28CustomDebugStringConvertible", "setupViews"]
+- !private ["Ps28CustomDebugStringConvertible", "storyboard"]
+- ["Ps28CustomDebugStringConvertible", "transition"]
+- !private ["Ps28CustomDebugStringConvertible", "view"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- !private ["Ps28CustomDebugStringConvertible", "width"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "height"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "width"]
+- !private ["Ps17CustomReflectable", "height"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "width"]
+- ["Ps23CustomStringConvertible", "BubbleTransition"]
+- !private ["Ps23CustomStringConvertible", "CGRect"]
+- !private ["Ps23CustomStringConvertible", "addChildViewController"]
+- !private ["Ps23CustomStringConvertible", "addSubview"]
+- ["Ps23CustomStringConvertible", "cameraButton"]
+- !private ["Ps23CustomStringConvertible", "contentSize"]
+- !private ["Ps23CustomStringConvertible", "didMove"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps23CustomStringConvertible", "frame"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "instantiateViewController"]
+- ["Ps23CustomStringConvertible", "scrollView"]
+- ["Ps23CustomStringConvertible", "setupViews"]
+- !private ["Ps23CustomStringConvertible", "storyboard"]
+- ["Ps23CustomStringConvertible", "transition"]
+- !private ["Ps23CustomStringConvertible", "view"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "BubbleTransition"]
+- !private ["Ps9Equatable", "CGRect"]
+- !private ["Ps9Equatable", "addChildViewController"]
+- !private ["Ps9Equatable", "addSubview"]
+- ["Ps9Equatable", "cameraButton"]
+- !private ["Ps9Equatable", "contentSize"]
+- !private ["Ps9Equatable", "didMove"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- !private ["Ps9Equatable", "frame"]
+- !private ["Ps9Equatable", "height"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "instantiateViewController"]
+- ["Ps9Equatable", "scrollView"]
+- ["Ps9Equatable", "setupViews"]
+- !private ["Ps9Equatable", "storyboard"]
+- ["Ps9Equatable", "transition"]
+- !private ["Ps9Equatable", "view"]
+- ["Ps9Equatable", "viewDidLoad"]
+- !private ["Ps9Equatable", "width"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["Ps8Hashable", "BubbleTransition"]
+- !private ["Ps8Hashable", "CGRect"]
+- !private ["Ps8Hashable", "addChildViewController"]
+- !private ["Ps8Hashable", "addSubview"]
+- ["Ps8Hashable", "cameraButton"]
+- !private ["Ps8Hashable", "contentSize"]
+- !private ["Ps8Hashable", "didMove"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps8Hashable", "frame"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "instantiateViewController"]
+- ["Ps8Hashable", "scrollView"]
+- ["Ps8Hashable", "setupViews"]
+- !private ["Ps8Hashable", "storyboard"]
+- ["Ps8Hashable", "transition"]
+- !private ["Ps8Hashable", "view"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- ["C7Added_218HomeViewController", "deinit"]
+- !private ["C7Added_218HomeViewController", "didMove"]
+- !private ["C7Added_218HomeViewController", "view"]
+- ["SQ", "deinit"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- ["CSo7NSCoder", "deinit"]
+- ["PSo8NSCoding", "BubbleTransition"]
+- !private ["PSo8NSCoding", "CGRect"]
+- !private ["PSo8NSCoding", "addChildViewController"]
+- !private ["PSo8NSCoding", "addSubview"]
+- ["PSo8NSCoding", "cameraButton"]
+- !private ["PSo8NSCoding", "contentSize"]
+- !private ["PSo8NSCoding", "didMove"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "frame"]
+- !private ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "scrollView"]
+- ["PSo8NSCoding", "setupViews"]
+- !private ["PSo8NSCoding", "storyboard"]
+- ["PSo8NSCoding", "transition"]
+- !private ["PSo8NSCoding", "view"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- ["PSo26NSExtensionRequestHandling", "BubbleTransition"]
+- !private ["PSo26NSExtensionRequestHandling", "CGRect"]
+- !private ["PSo26NSExtensionRequestHandling", "addChildViewController"]
+- ["PSo26NSExtensionRequestHandling", "cameraButton"]
+- !private ["PSo26NSExtensionRequestHandling", "didMove"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "scrollView"]
+- ["PSo26NSExtensionRequestHandling", "setupViews"]
+- !private ["PSo26NSExtensionRequestHandling", "storyboard"]
+- ["PSo26NSExtensionRequestHandling", "transition"]
+- !private ["PSo26NSExtensionRequestHandling", "view"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "BubbleTransition"]
+- !private ["CSo8NSObject", "CGRect"]
+- !private ["CSo8NSObject", "HomeViewController"]
+- ["CSo8NSObject", "UIButton"]
+- ["CSo8NSObject", "UIScrollView"]
+- !private ["CSo8NSObject", "addChildViewController"]
+- !private ["CSo8NSObject", "addSubview"]
+- ["CSo8NSObject", "cameraButton"]
+- !private ["CSo8NSObject", "contentSize"]
+- !private ["CSo8NSObject", "didMove"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- !private ["CSo8NSObject", "frame"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "instantiateViewController"]
+- ["CSo8NSObject", "scrollView"]
+- ["CSo8NSObject", "setupViews"]
+- !private ["CSo8NSObject", "storyboard"]
+- ["CSo8NSObject", "transition"]
+- !private ["CSo8NSObject", "view"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "BubbleTransition"]
+- !private ["PSo16NSObjectProtocol", "CGRect"]
+- !private ["PSo16NSObjectProtocol", "addChildViewController"]
+- !private ["PSo16NSObjectProtocol", "addSubview"]
+- ["PSo16NSObjectProtocol", "cameraButton"]
+- !private ["PSo16NSObjectProtocol", "contentSize"]
+- !private ["PSo16NSObjectProtocol", "didMove"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "frame"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "instantiateViewController"]
+- ["PSo16NSObjectProtocol", "scrollView"]
+- ["PSo16NSObjectProtocol", "setupViews"]
+- !private ["PSo16NSObjectProtocol", "storyboard"]
+- ["PSo16NSObjectProtocol", "transition"]
+- !private ["PSo16NSObjectProtocol", "view"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- ["Sq", "deinit"]
+- ["C7Added_220ScrollViewController", "BubbleTransition"]
+- !private ["C7Added_220ScrollViewController", "CGRect"]
+- !private ["C7Added_220ScrollViewController", "HomeViewController"]
+- ["C7Added_220ScrollViewController", "UIButton"]
+- ["C7Added_220ScrollViewController", "UIScrollView"]
+- !private ["C7Added_220ScrollViewController", "addChildViewController"]
+- ["C7Added_220ScrollViewController", "cameraButton"]
+- ["C7Added_220ScrollViewController", "deinit"]
+- ["C7Added_220ScrollViewController", "didReceiveMemoryWarning"]
+- ["C7Added_220ScrollViewController", "init"]
+- ["C7Added_220ScrollViewController", "scrollView"]
+- ["C7Added_220ScrollViewController", "setupViews"]
+- !private ["C7Added_220ScrollViewController", "storyboard"]
+- ["C7Added_220ScrollViewController", "transition"]
+- !private ["C7Added_220ScrollViewController", "view"]
+- ["C7Added_220ScrollViewController", "viewDidLoad"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "addSubview"]
+- !private ["PSo29UIAccessibilityIdentification", "contentSize"]
+- !private ["PSo29UIAccessibilityIdentification", "frame"]
+- !private ["PSo12UIAppearance", "addSubview"]
+- !private ["PSo12UIAppearance", "contentSize"]
+- !private ["PSo12UIAppearance", "frame"]
+- ["PSo21UIAppearanceContainer", "BubbleTransition"]
+- !private ["PSo21UIAppearanceContainer", "CGRect"]
+- !private ["PSo21UIAppearanceContainer", "addChildViewController"]
+- !private ["PSo21UIAppearanceContainer", "addSubview"]
+- ["PSo21UIAppearanceContainer", "cameraButton"]
+- !private ["PSo21UIAppearanceContainer", "contentSize"]
+- !private ["PSo21UIAppearanceContainer", "didMove"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "frame"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "scrollView"]
+- ["PSo21UIAppearanceContainer", "setupViews"]
+- !private ["PSo21UIAppearanceContainer", "storyboard"]
+- ["PSo21UIAppearanceContainer", "transition"]
+- !private ["PSo21UIAppearanceContainer", "view"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo18UIContentContainer", "BubbleTransition"]
+- !private ["PSo18UIContentContainer", "CGRect"]
+- !private ["PSo18UIContentContainer", "addChildViewController"]
+- ["PSo18UIContentContainer", "cameraButton"]
+- !private ["PSo18UIContentContainer", "didMove"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- !private ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "scrollView"]
+- ["PSo18UIContentContainer", "setupViews"]
+- !private ["PSo18UIContentContainer", "storyboard"]
+- ["PSo18UIContentContainer", "transition"]
+- !private ["PSo18UIContentContainer", "view"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "addSubview"]
+- !private ["PSo17UICoordinateSpace", "contentSize"]
+- !private ["PSo17UICoordinateSpace", "frame"]
+- !private ["PSo13UIDynamicItem", "addSubview"]
+- !private ["PSo13UIDynamicItem", "contentSize"]
+- !private ["PSo13UIDynamicItem", "frame"]
+- ["PSo18UIFocusEnvironment", "BubbleTransition"]
+- !private ["PSo18UIFocusEnvironment", "CGRect"]
+- !private ["PSo18UIFocusEnvironment", "addChildViewController"]
+- !private ["PSo18UIFocusEnvironment", "addSubview"]
+- ["PSo18UIFocusEnvironment", "cameraButton"]
+- !private ["PSo18UIFocusEnvironment", "contentSize"]
+- !private ["PSo18UIFocusEnvironment", "didMove"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "frame"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "scrollView"]
+- ["PSo18UIFocusEnvironment", "setupViews"]
+- !private ["PSo18UIFocusEnvironment", "storyboard"]
+- ["PSo18UIFocusEnvironment", "transition"]
+- !private ["PSo18UIFocusEnvironment", "view"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "addSubview"]
+- !private ["PSo11UIFocusItem", "contentSize"]
+- !private ["PSo11UIFocusItem", "frame"]
+- ["CSo11UIResponder", "BubbleTransition"]
+- !private ["CSo11UIResponder", "CGRect"]
+- !private ["CSo11UIResponder", "HomeViewController"]
+- ["CSo11UIResponder", "UIButton"]
+- ["CSo11UIResponder", "UIScrollView"]
+- !private ["CSo11UIResponder", "addChildViewController"]
+- !private ["CSo11UIResponder", "addSubview"]
+- ["CSo11UIResponder", "cameraButton"]
+- !private ["CSo11UIResponder", "contentSize"]
+- !private ["CSo11UIResponder", "didMove"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- !private ["CSo11UIResponder", "frame"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "scrollView"]
+- ["CSo11UIResponder", "setupViews"]
+- !private ["CSo11UIResponder", "storyboard"]
+- ["CSo11UIResponder", "transition"]
+- !private ["CSo11UIResponder", "view"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", "BubbleTransition"]
+- !private ["PSo30UIResponderStandardEditActions", "CGRect"]
+- !private ["PSo30UIResponderStandardEditActions", "addChildViewController"]
+- !private ["PSo30UIResponderStandardEditActions", "addSubview"]
+- ["PSo30UIResponderStandardEditActions", "cameraButton"]
+- !private ["PSo30UIResponderStandardEditActions", "contentSize"]
+- !private ["PSo30UIResponderStandardEditActions", "didMove"]
+- ["PSo30UIResponderStandardEditActions", "didReceiveMemoryWarning"]
+- !private ["PSo30UIResponderStandardEditActions", "frame"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "scrollView"]
+- ["PSo30UIResponderStandardEditActions", "setupViews"]
+- !private ["PSo30UIResponderStandardEditActions", "storyboard"]
+- ["PSo30UIResponderStandardEditActions", "transition"]
+- !private ["PSo30UIResponderStandardEditActions", "view"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["CSo12UIScrollView", "addSubview"]
+- !private ["CSo12UIScrollView", "contentSize"]
+- ["PSo16UIStateRestoring", "BubbleTransition"]
+- !private ["PSo16UIStateRestoring", "CGRect"]
+- !private ["PSo16UIStateRestoring", "addChildViewController"]
+- ["PSo16UIStateRestoring", "cameraButton"]
+- !private ["PSo16UIStateRestoring", "didMove"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- !private ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "scrollView"]
+- ["PSo16UIStateRestoring", "setupViews"]
+- !private ["PSo16UIStateRestoring", "storyboard"]
+- ["PSo16UIStateRestoring", "transition"]
+- !private ["PSo16UIStateRestoring", "view"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["CSo12UIStoryboard", "deinit"]
+- !private ["CSo12UIStoryboard", "instantiateViewController"]
+- ["PSo18UITraitEnvironment", "BubbleTransition"]
+- !private ["PSo18UITraitEnvironment", "CGRect"]
+- !private ["PSo18UITraitEnvironment", "addChildViewController"]
+- !private ["PSo18UITraitEnvironment", "addSubview"]
+- ["PSo18UITraitEnvironment", "cameraButton"]
+- !private ["PSo18UITraitEnvironment", "contentSize"]
+- !private ["PSo18UITraitEnvironment", "didMove"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "frame"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "scrollView"]
+- ["PSo18UITraitEnvironment", "setupViews"]
+- !private ["PSo18UITraitEnvironment", "storyboard"]
+- ["PSo18UITraitEnvironment", "transition"]
+- !private ["PSo18UITraitEnvironment", "view"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "addSubview"]
+- !private ["CSo6UIView", "contentSize"]
+- ["CSo6UIView", "deinit"]
+- !private ["CSo6UIView", "frame"]
+- ["CSo16UIViewController", "BubbleTransition"]
+- !private ["CSo16UIViewController", "CGRect"]
+- !private ["CSo16UIViewController", "HomeViewController"]
+- ["CSo16UIViewController", "UIButton"]
+- ["CSo16UIViewController", "UIScrollView"]
+- !private ["CSo16UIViewController", "addChildViewController"]
+- ["CSo16UIViewController", "cameraButton"]
+- ["CSo16UIViewController", "deinit"]
+- !private ["CSo16UIViewController", "didMove"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "scrollView"]
+- ["CSo16UIViewController", "setupViews"]
+- !private ["CSo16UIViewController", "storyboard"]
+- ["CSo16UIViewController", "transition"]
+- !private ["CSo16UIViewController", "view"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- ["PSo37UIViewControllerAnimatedTransitioning", "init"]
+- !private ["PSo37UIViewControllerTransitioningDelegate", "didMove"]
+- !private ["PSo37UIViewControllerTransitioningDelegate", "view"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "addSubview"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "contentSize"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "frame"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- ["Ps9_Hashable", "BubbleTransition"]
+- !private ["Ps9_Hashable", "CGRect"]
+- !private ["Ps9_Hashable", "addChildViewController"]
+- !private ["Ps9_Hashable", "addSubview"]
+- ["Ps9_Hashable", "cameraButton"]
+- !private ["Ps9_Hashable", "contentSize"]
+- !private ["Ps9_Hashable", "didMove"]
+- ["Ps9_Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps9_Hashable", "frame"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "instantiateViewController"]
+- ["Ps9_Hashable", "scrollView"]
+- ["Ps9_Hashable", "setupViews"]
+- !private ["Ps9_Hashable", "storyboard"]
+- ["Ps9_Hashable", "transition"]
+- !private ["Ps9_Hashable", "view"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "height"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "width"]
+depends-nominal:
+- "Ps9AnyObject"
+- "C16BubbleTransition16BubbleTransition"
+- !private "PSo15CALayerDelegate"
+- "V12CoreGraphics7CGFloat"
+- "VSC6CGRect"
+- !private "VSC6CGSize"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- "C7Added_218HomeViewController"
+- "SQ"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "Sq"
+- "C7Added_220ScrollViewController"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- !private "CSo12UIScrollView"
+- "PSo16UIStateRestoring"
+- "CSo12UIStoryboard"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "CSo16UIViewController"
+- "PSo37UIViewControllerAnimatedTransitioning"
+- !private "PSo37UIViewControllerTransitioningDelegate"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Users/lukeporupski/Projects/Added_2/Added_2/Added_2-Bridging-Header.h"
+- "/Users/lukeporupski/Projects/Added_2/Added_2/StickCollectionViewFlowLayout.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Users/lukeporupski/Projects/Added_2/Added_2/SCPrimerCollectionViewCell.h"
+- "/Users/lukeporupski/Projects/Added_2/Added_2/SCCornerCollectionViewCell.h"
+- "/Users/lukeporupski/Projects/Added_2/Added_2/SCCornerViewController.h"
+- "/Users/lukeporupski/Projects/Added_2/Added_2/SCPrimerViewController.h"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreAudio.swiftmodule"
+- "/Users/lukeporupski/Projects/Added_2/build/Debug-iphoneos/BubbleTransition.framework/Modules/BubbleTransition.swiftmodule/arm.swiftmodule"
+- "/Users/lukeporupski/Projects/Added_2/build/Debug-iphoneos/BubbleTransition.framework/Headers/BubbleTransition-Swift.h"
+- "/Users/lukeporupski/Projects/Added_2/build/Debug-iphoneos/BubbleTransition.framework/Headers/BubbleTransition-umbrella.h"
+- "/Users/lukeporupski/Projects/Added_2/build/Debug-iphoneos/BubbleTransition.framework/Modules/module.modulemap"
+interface-hash: "2264c474db78b4e43f90d311a0419446"
